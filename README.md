@@ -83,7 +83,6 @@ Multiple models were trained and evaluated using the Kaggle leaderboard. Perform
 ├── notebook.ipynb
 ├── README.md
 ├── requirements.txt
-└── images/
 ```
 
 ---
