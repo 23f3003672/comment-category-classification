@@ -93,7 +93,7 @@ Multiple models were trained and evaluated using the Kaggle leaderboard. Perform
 ### Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/<repository-name>.git
+git clone https://github.com/23f3003672/comment-category-classification.git
 ```
 
 ### Install dependencies
